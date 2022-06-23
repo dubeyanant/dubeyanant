@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently a student in T.Y.B.Sc.(C.S.) in K.T.H.M. College, Nashik.
+Currently a student in T.Y.B.Sc.(C.S.) in K.T.H.M. College, Nashik
+
 I'm looking to collaborate on open source project.
