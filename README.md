@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Currently a student in T.Y.B.Sc.(C.S.) in K.T.H.M. College, Nashik
+Currently a student in F.Y.M.Sc.(C.S.) in M.I.T.W.P.U. College, Pune
 
 I'm looking to collaborate on open source projects.
