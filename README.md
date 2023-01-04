@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyanant&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyanant" /> </p>
 
 - 🏫 I’m currently studying in **MIT, Pune**
-- 🌱 I’m currently learning **Web 3**
+- 🌱 I’m currently learning **Web 3 & Flutter**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, C, and C++**
 - 🏓 I also like to **write poems, and direct short films**
