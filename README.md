@@ -28,6 +28,6 @@
 
 <h3 align="left">GitHub Stat's:</h3>
 
-![stats](https://github-readme-stats.vercel.app/api?username=dubeyanant&show_icons=true&theme=darcula)
+<!--- ![stats](https://github-readme-stats.vercel.app/api?username=dubeyanant&show_icons=true&theme=darcula) --->
 
 [![GitHub Anant Dubey](https://img.shields.io/github/followers/dubeyanant?label=follow&style=social)](https://github.com/dubeyanant)
