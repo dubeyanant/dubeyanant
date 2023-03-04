@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyanant&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyanant" /> </p>
 
 - 🏫 I’m currently studying in **MIT, Pune**
-- 🌱 I’m currently learning **Web 3 & Flutter**
+- 🌱 I’m currently learning **Android and Python**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, C, and C++**
 - 🏓 I also like to **write poems, and direct short films**
@@ -28,6 +28,6 @@
 
 <h3 align="left">GitHub Stat's:</h3>
 
-<!--- ![stats](https://github-readme-stats.vercel.app/api?username=dubeyanant&show_icons=true&theme=darcula) --->
+![stats](https://github-readme-stats.vercel.app/api?username=dubeyanant&show_icons=true&theme=darcula) -
 
 [![GitHub Anant Dubey](https://img.shields.io/github/followers/dubeyanant?label=follow&style=social)](https://github.com/dubeyanant)
