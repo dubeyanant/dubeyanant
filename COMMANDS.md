@@ -16,3 +16,7 @@ git gc --aggressive --prune=all     # remove the old files
 
 And then repeat this command for all the commits
 `export GIT_COMMITTER_DATE=$(git show --no-patch --format=%aD) && git commit --amend --author="Anant Dubey <anantkumar312@gmail.com>" --no-edit --date="$GIT_COMMITTER_DATE" && git rebase --continue`
+
+#### To change commit date and time -> [OP](https://stackoverflow.com/a/5017265)
+
+`GIT_COMMITTER_DATE="Wed Mar 26 12:15:00 2024 +0530"  git commit --amend --date="Wed Mar 26 12:15:00 2024 +0530" --no-edit`
