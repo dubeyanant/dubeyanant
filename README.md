@@ -6,11 +6,10 @@ I like to learn and adapt to new technologies and working environments.
 <img src="https://komarev.com/ghpvc/?username=dubeyanant&label=Profile%20views&color=0e75b6&style=plastic" alt="dubeyanant" />
 
 * 🌍  I'm based in Nashik(IN) working in Mumbai(IN)
-* 🖥️  See my other socials at [bio.link](http://bio.link/aanant)
 * ✉️  You can contact me at [anantkumar312@gmail.com](mailto:anantkumar312@gmail.com)
 * 🚀  I'm currently working on [My People](http://github.com/dubeyanant/my_people)
 * 🧠  I'm learning Flutter & Copy Writing
-* 🤝  I'm open for Talks & collaborating on Open Source Projects
+* 🤝  I'm open for Talks & collaborating on Open Source Contributions
 * ⚡  I also like to write poems and fiction
 
 ### Connect Below
