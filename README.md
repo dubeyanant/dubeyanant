@@ -7,7 +7,7 @@ I like to learn and adapt to new technologies and working environments.
 
 * 🌍  I'm based in Nashik(IN) working in Mumbai(IN)
 * ✉️  You can contact me at [anantkumar312@gmail.com](mailto:anantkumar312@gmail.com)
-* 🚀  I'm currently working on [My People](http://github.com/dubeyanant/my_people)
+* 🚀  I'm currently working on my [website](https://www.anantdubey.com)
 * 🧠  I'm learning Flutter & Copy Writing
 * 🤝  I'm open for Talks & collaborating on Open Source Contributions
 * ⚡  I also like to write poems and fiction
